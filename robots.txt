@@ -30,9 +30,9 @@ Disallow: /payments/
 Disallow: /?p=*
 Disallow: /*?*
 Disallow: /*?
-Sitemap: https://theplayfortuna.github.io/sitemap.xml
+Sitemap: https://theplayfortuna.github.io.co/sitemap.xml
 
 User-agent: Yandex
 Allow: /
-Host: https://theplayfortuna.github.io
-Sitemap: https://theplayfortuna.github.io/sitemap.xml
+Host: https://theplayfortuna.github.io.co
+Sitemap: https://theplayfortuna.github.io.co/sitemap.xml
